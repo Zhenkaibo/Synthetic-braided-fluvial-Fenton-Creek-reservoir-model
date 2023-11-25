@@ -1,5 +1,5 @@
 # Synthetic-braided-fluvial-Fenton-Creek-reservoir-model
-An open-access synthetic braided-fluvial reservoir built based on a depleted gas reservoir in Otway Basin, Australia
+An open-access synthetic braided-fluvial reservoir model repository built based on a depleted gas reservoir in Otway Basin, Australia.
 More details regarding the models in this repository can be found in the following publications. 
 
 Bo, Z., Boon, M., Hajibeygi, H. and Hurter, S., 2023. Impact of experimentally measured relative permeability hysteresis on reservoir-scale performance of underground hydrogen storage (UHS). international journal of hydrogen energy, 48(36), pp.13527-13542.
